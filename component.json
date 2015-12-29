@@ -1,7 +1,9 @@
 {
     "repos": "https://github.com/yiminghe/gregorian-calendar.git",
-    "version": "4.0.4",
     "tag": "master",
     "name": "gregorian-calendar",
-    "main": "lib/gregorian-calendar.js"
+    "main": "lib/gregorian-calendar",
+    "description": "date time utils ported from java",
+    "reposType": "npm",
+    "version": "4.1.0"
 }
